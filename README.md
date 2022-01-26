@@ -1,4 +1,4 @@
-# thumbnail-product-slider-home-page-
+# thumbnail-product-slider-home-page-backend
 Thumbanail Product berfungsi untuk pembaca agar lebih mengetahui konten secara update atau terbaru dari section menu product atau store
 
 berikut ini tampilan form data product slider
